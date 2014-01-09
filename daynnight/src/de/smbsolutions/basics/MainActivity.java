@@ -1,6 +1,12 @@
-package de.smbsolutions.day;
+package de.smbsolutions.basics;
 
 import java.util.Locale;
+
+import de.smbsolutions.day.R;
+import de.smbsolutions.day.R.id;
+import de.smbsolutions.day.R.layout;
+import de.smbsolutions.day.R.menu;
+import de.smbsolutions.day.R.string;
 
 import android.app.ActionBar;
 import android.app.FragmentTransaction;
